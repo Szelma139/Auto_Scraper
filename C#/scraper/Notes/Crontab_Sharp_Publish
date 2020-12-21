@@ -1,0 +1,19 @@
+
+Publish your application as a self contained application:
+
+dotnet publish -c release -r ubuntu.16.04-x64 --self-contained
+Copy the publish folder to the Ubuntu machine
+
+Open the Ubuntu machine terminal (CLI) and go to the project directory
+
+Provide execute permissions:
+
+chmod 777 ./appname
+Execute the application
+
+./appname
+
+-------------------------------------------------------------------------------------------------------
+
+58 11 * * * /home/radek/Projekty-dotnet/C#/scraper/bin/release/netcoreapp2.1/ubuntu.20.04-x64/publish/scraper
+//runs program in home directory of user 11:58 everyday
