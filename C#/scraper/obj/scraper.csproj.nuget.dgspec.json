@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/radek/Projekty-dotnet/scraper/scraper.csproj": {}
+  },
+  "projects": {
+    "/home/radek/Projekty-dotnet/scraper/scraper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/radek/Projekty-dotnet/scraper/scraper.csproj",
+        "projectName": "scraper",
+        "projectPath": "/home/radek/Projekty-dotnet/scraper/scraper.csproj",
+        "packagesPath": "/home/radek/.nuget/packages/",
+        "outputPath": "/home/radek/Projekty-dotnet/scraper/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/radek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "IronWebScraper": {
+              "target": "Package",
+              "version": "[4.0.4.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

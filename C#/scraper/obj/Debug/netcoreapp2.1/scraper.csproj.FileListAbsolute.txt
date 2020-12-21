@@ -1,0 +1,11 @@
+/home/radek/Projekty-dotnet/scraper/bin/Debug/netcoreapp2.1/scraper.deps.json
+/home/radek/Projekty-dotnet/scraper/bin/Debug/netcoreapp2.1/scraper.runtimeconfig.json
+/home/radek/Projekty-dotnet/scraper/bin/Debug/netcoreapp2.1/scraper.runtimeconfig.dev.json
+/home/radek/Projekty-dotnet/scraper/bin/Debug/netcoreapp2.1/scraper.dll
+/home/radek/Projekty-dotnet/scraper/bin/Debug/netcoreapp2.1/scraper.pdb
+/home/radek/Projekty-dotnet/scraper/obj/Debug/netcoreapp2.1/scraper.csprojAssemblyReference.cache
+/home/radek/Projekty-dotnet/scraper/obj/Debug/netcoreapp2.1/scraper.csproj.CoreCompileInputs.cache
+/home/radek/Projekty-dotnet/scraper/obj/Debug/netcoreapp2.1/scraper.AssemblyInfoInputs.cache
+/home/radek/Projekty-dotnet/scraper/obj/Debug/netcoreapp2.1/scraper.AssemblyInfo.cs
+/home/radek/Projekty-dotnet/scraper/obj/Debug/netcoreapp2.1/scraper.dll
+/home/radek/Projekty-dotnet/scraper/obj/Debug/netcoreapp2.1/scraper.pdb
